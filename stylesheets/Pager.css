@@ -1,0 +1,57 @@
+.pagination .btn-first-page {
+    border-color: #378395;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.pagination .btn-prev-page {
+    border-color: #378395;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.pagination .btn-numbered-page {
+    border-color: #378395;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.pagination .btn-next-page {
+    border-color: #378395;
+    border-left: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.pagination .btn-last-page {
+    border-color: #378395;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.pagination {
+    cursor: pointer !important;
+}
+
+.pagination .active a {
+    text-decoration: underline overline #378395 !important;
+}
